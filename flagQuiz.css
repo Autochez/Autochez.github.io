@@ -4,3 +4,18 @@
 #nameCorrect {
 	color:lime;
 }
+body {
+	font-family:arial;
+	text-align:center;
+	color:black;
+	background-color:darkkhaki;
+}
+p {
+	font-size:20px;
+}
+h1 {
+	font-size:30px;
+}
+h2 {
+	font-size:20px;
+}
